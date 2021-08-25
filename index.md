@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+## How to use Python IDLE
 
-You can use the [editor on GitHub](https://github.com/wooyoyohehe/Python-idle/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+IDLE is Python’s Integrated Development and Learning Environment. You can edit, run,debug your Python code by it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### IDLE on Windows
 
-### Markdown
+official doc is [here](https://docs.python.org/3/library/idle.html)
+1. Open the IDLE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+print('hehe')
+```
+
 
 ```markdown
 Syntax highlighted code block
